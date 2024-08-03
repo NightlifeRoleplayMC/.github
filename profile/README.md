@@ -1,4 +1,2 @@
-# .github
-
-NLRP:MC
+# NLRP:MC
 
